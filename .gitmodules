@@ -1,0 +1,6 @@
+[submodule "yoga"]
+	path = yoga
+	url = https://github.com/facebook/yoga.git
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/facebook/hermes.git
